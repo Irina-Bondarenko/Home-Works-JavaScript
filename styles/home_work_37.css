@@ -1,0 +1,12 @@
+#todoItems .col-4 {
+    background-color: lightblue;
+    border-radius: 10px;
+    width: auto;
+    padding: 10px;
+    margin: 10px;
+}
+
+.statusTodo {
+    padding: 0.5rem 0.75rem;
+    vertical-align: middle;
+}
